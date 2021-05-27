@@ -1,0 +1,2 @@
+DB_USER=administartor
+DB_PASSWORD=myRealPassword
